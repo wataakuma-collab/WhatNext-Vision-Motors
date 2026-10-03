@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>Gemini_Generated_Image_5m16gg5m16gg</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>A centralized CRM app for managing vehicles, dealers, test drives and orders at WhatNext Vision Motors.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>WhatNext Vision Motors</label>
+    <navType>Standard</navType>
+    <tabs>Vehicle_Dealer__c</tabs>
+    <tabs>Vehicle_Order__c</tabs>
+    <tabs>Vehicle_Service_Request__c</tabs>
+    <tabs>Vehicle_Test_Drive__c</tabs>
+    <tabs>Vehicle__c</tabs>
+    <tabs>Vehicle_Customer__c</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>standard-report</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>WhatNext_Vision_Motors_UtilityBar</utilityBar>
+</CustomApplication>
